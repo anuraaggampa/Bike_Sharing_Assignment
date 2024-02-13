@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Boom bike sharing assignment
 
 
 ## Table of Contents
